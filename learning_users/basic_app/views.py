@@ -1,4 +1,4 @@
- from django.shortcuts import render
+from django.shortcuts import render
 from .forms import UserForm,UserProfileInfoForm
 
 # Extra Imports for the Login and Logout Capabilities
